@@ -1,0 +1,172 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 2;
+    font-weight: 900;
+    
+}
+
+h2{
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 2;
+
+}
+
+h3{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#title {
+    background-color: #ff4c68;
+    color: white;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu',sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.navbar{
+    padding-bottom: 4.5rem;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+
+.title-img{
+    width: 55%;
+    transform: rotate(25deg);
+    margin-left: 12rem;
+} 
+
+.download-btn{
+    margin: 5% 3% 5% 0;
+}
+
+#features{
+    text-align: center;
+    margin: 200px auto;
+}
+
+.features-img{
+    color: #ef8172;
+    font-size: 12rem; 
+    padding-bottom: 20px;
+}
+
+.features-img:hover{
+    color: #ff4c68;
+}
+
+.features-txt{
+    color: #8f8f8f;
+    padding-bottom: 50px;
+}
+
+#testimonials{
+    /* padding: 7% 15%; */
+    text-align: center;
+    background-color:#ff4c68;
+    color: white;
+}
+.testimonial-img{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+    
+}
+
+#press{
+    background-color:#ff4c68;
+    text-align: center;
+}
+
+.press-img{
+    margin: auto 40px;
+    width: 10%;
+}
+.testimonial-item{
+    padding: 7% 15%;
+}
+
+#pricing{
+    padding: 7% 15%;
+
+}
+
+.pricing-card-header{
+    background-color:  #ef8172;
+}
+
+.pricing-card{
+    border-color: #ef8172;
+}
+
+.pricing-btn{
+    border-color:#ef8172;
+    background-color:#ef8172;
+}
+
+.pricing-btn:hover{
+    background-color:#ca6b5f;
+    border-color: #ef8172;
+}
+
+.pricing-card-header-premium{
+    background-color: #ff4c68;
+}
+
+
+.pricing-card-premium{
+    border-color: #ff4c68;
+}
+
+.pricing-btn-premium{
+    border-color: #ff4c68;
+    background-color: #ff4c68;
+}
+
+.pricing-btn-premium:hover{
+    background-color: #da4158;
+    border-color: #ff4c68;
+}
+
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 2% 15% 1%;
+}
+
+.cta-btn{
+    margin: 1% 1% 0.5%;
+}
+
+#footer{
+    background-color: #ff4c68;
+    text-align: center;
+}
+
+.footer-txt{
+    margin-bottom: 0;
+    padding-bottom: 15px;
+}
